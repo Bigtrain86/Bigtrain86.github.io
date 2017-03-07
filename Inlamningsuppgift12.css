@@ -1,0 +1,20 @@
+.container
+{
+  background:white;
+  border-style: solid;
+}
+
+li
+{
+   font-weight:bold;
+}
+
+p
+{
+  font-weight:bold;
+}
+
+em
+{
+  font-weight:bold;
+}

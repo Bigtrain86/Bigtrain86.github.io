@@ -1,0 +1,65 @@
+
+
+.button {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 5px 15px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background: linear-gradient(to bottom, blue, white);
+    font: bold 15px arial;
+    color: black;  
+}
+
+.btn
+{
+	display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 5px 15px;
+    border: 8px solid black;
+    border-radius: 20px;
+    background: linear-gradient(to bottom, purple, green);
+    font: bold 15px arial;
+    color: black;  
+}
+
+html, body 
+{
+    min-height: 100%;
+}
+
+body
+{
+  background: linear-gradient(to bottom, #8f8888, #d6d3d3);
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  background-size: cover;
+  width: 100%; 
+  margin: 0; 
+  padding: 0; 
+  overflow: hidden;
+  margin-top: 5%;
+}
+
+.wrapper
+{
+  clear: left; 
+  float: left; 
+  position: relative; 
+  left: 50%;
+}
+
+.container
+{
+  display: block; 
+  float: left; 
+  position: relative; 
+  right: 50%; 
+}
+
+h1
+{
+  text-align:center;
+}
